@@ -44,8 +44,8 @@ Temporary Items
 
 #added by naturkach
 #www/css allow only .css
-!/www/css/*.css
 /www/css
+!/www/css/*.css
 #www/js only .js
 !/www/js/*.js
 /www/js
