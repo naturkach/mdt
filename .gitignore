@@ -44,19 +44,22 @@ Temporary Items
 
 #added by naturkach
 #www/css allow only .css
-!/www/css/*.css
 /www/css/*
-#www/js only .js
-!/www/js/*.js
+!/www/css/*.css
+#
+##www/js only .js
 /www/js/*
-#www/min only -min in name
-!/www/min/*-min*
+!/www/js/*.js
+#
+##www/min only -min in name
 /www/min/*
-#allow png/jpg/jpeg files only in www/img folder
+!/www/min/*-min*
+#
+##allow png/jpg/jpeg files only in www/img folder
+/www/img/*
 !/www/img/*.png
 !/www/img/*.jpg
 !/www/img/*.jpeg
-/www/img/*
-
-#exclude .code folder for all repo ?
+#
+##exclude .code folder for all repo ?
 /.code/**
