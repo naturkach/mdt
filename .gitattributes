@@ -24,3 +24,4 @@
 #lab test
 *.sh lf
 *.ps1 crlf
+*.html diff=html
