@@ -1,4 +1,5 @@
 Changelog
+# Changelog
 
 All notable changes to this project will be documented in this file.
 
@@ -14,6 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Danish translation from [@frederikspang](https://github.com/frederikspang).
 - Georgian translation from [@tatocaster ](https://github.com/tatocaster).
 - Changelog inconsistency section in Bad Practices
+- nothing
 
 ### Changed
 - Fixed typos in Italian translation from [@lorenzo-arena](https://github.com/lorenzo-arena).
